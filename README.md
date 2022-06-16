@@ -126,6 +126,12 @@ sudo emerge dev-vcs/gitui::dm9pZCAq
 brew install gitui
 ```
 
+### MacPorts (macOS)
+
+```sh
+port install gitui
+```
+
 ### [Scoop](https://github.com/ScoopInstaller/Main/blob/master/bucket/gitui.json) (Windows)
 
 ```
